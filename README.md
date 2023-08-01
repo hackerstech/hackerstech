@@ -5,11 +5,11 @@
 
 - 👀 I’m interested in making Tools and Utilities
 
-- 🔥 I'm currently learning JAVA appllication devlopment
+- 🔥 I'm currently learning JAVA application devlopment
 
 - 🌱 I’m looking to collaborate on opensource projects 
 
-- 📫 Find me on insta id alien_ghost_2025
+- 📫 Find me on insta id telegram given below
 
 ▄︻̷̿┻̿═━一   <p align="justify"><img src="https://raw.githubusercontent.com/hackerstech/hackerstech/main/110929453.jpg" height="40%" width="40%"></p>
 <!---
